@@ -15,7 +15,8 @@ title: Lee Zhao Lun's Portfolio # This is what shows up in the tab of the browse
 name: Lee Zhao Lun
 headline: About me
 description: >- # dont remove this line. this will ignore all new lines until the next section
-I am a Robotics Systems student at SIT Singapore passionate about developing intelligent robotic solutions through hands-on projects in automation and embedded systems. Currently strengthening my skills in ROS, control systems, and sensor integration while applying theoretical knowledge to practical applications.
+  I am a Robotics Systems student at SIT Singapore passionate about developing intelligent robotic solutions through hands-on projects in automation and embedded systems. 
+  Currently strengthening my skills in ROS, control systems, and sensor integration while applying theoretical knowledge to practical applications.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/profile_pic.jpg
