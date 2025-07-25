@@ -2,7 +2,6 @@
 layout: post
 title: Systems Engineering Project 1
 description: "To design and create a physical environment, a built environment or an arena, where a 4-wheeled mobile robot (LIMO robot from Agilex Robotics) is able to perform certain functions: localisation, mapping, path planning, and navigation."
----
 
 skills: 
   - Localisation
