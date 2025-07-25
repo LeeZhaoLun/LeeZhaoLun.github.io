@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RSE2107A-Systems Engineering Project 1
+title: Systems Engineering Project 1
 description:  
 
 skills: 
@@ -12,7 +12,7 @@ skills:
   - ROS1 TF
   - ROS1 Actionlib
 
-main-image: /Arena Design & Creation.jpg
+main-image: /Arena Design.jpg
 ---
 
 ---
