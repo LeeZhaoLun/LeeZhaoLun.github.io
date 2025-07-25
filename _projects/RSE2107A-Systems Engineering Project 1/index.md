@@ -8,6 +8,8 @@ skills:
   - Mapping
   - Path planning
   - Navigation
+  - ROS1 TF
+  - ROS1 Actionlib
 
 main-image: /Arena Design & Creation.jpg
 ---
