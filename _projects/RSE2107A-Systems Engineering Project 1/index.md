@@ -30,7 +30,7 @@ To be able to work harmoniously in team within the given time and budget constra
 To be able to appreciate the tradeoff inherent in any real-world project and come up with
 the best compromise.
 
-<--! ### Header 3 
+<!-- ### Header 3 
 Use this to have subsection if needed
 
 
