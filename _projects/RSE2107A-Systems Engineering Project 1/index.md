@@ -29,10 +29,17 @@ To be able to work harmoniously in team within the given time and budget constra
 To be able to appreciate the tradeoff inherent in any real-world project and come up with
 the best compromise.
 
-<!-- ### Header 3 
-Use this to have subsection if needed
+### Arena Requirements
+Each arena must conform to the following requirements.
+▪ The arena must have a size of 1330 mm x 1500 mm.
+▪ The arena must have openings connecting it to the adjacent arenas. These openings must be
+at the centres of the sides the arena.
+▪ The arena must have path connecting all of the openings and this path must intersect some
+area within 5-cm radius from the centre of the arena.
+▪ The arena must be reasonable, i.e. the team designing and creating it must show that their
+robot can navigate through or conquer it.
 
-
+<!-- 
 ## Embedding images 
 ### External images
 {% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
