@@ -16,11 +16,21 @@ main-image: /Arena Design & Creation.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
+# Purpose
+To design and create a physical environment, i.e. a built environment or an
+arena, where a 4-wheeled mobile robot, i.e. LIMO robot from AgileX Robotics, is able to
+perform certain functions, e.g. localisation, mapping, path planning, navigation etc..
+
+## Learning Objectives
+To be able to design and create a physical environment, i.e. a built environment or an
+arena, where a mobile robot is able to move around.
+To be able to appreciate how a mobile robot and its physical environment interact with
+each other.
+To be able to work harmoniously in team within the given time and budget constraints.
+To be able to appreciate the tradeoff inherent in any real-world project and come up with
+the best compromise.
+
+<--! ### Header 3 
 Use this to have subsection if needed
 
 
@@ -110,5 +120,5 @@ console.log(x);
 | Row 2, Col 1 | Row 2, Col 2 |
 
 make sure to leave aline betwen the table and the header
-
+--!>
 
