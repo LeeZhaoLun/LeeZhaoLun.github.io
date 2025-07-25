@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Systems Engineering Project 1
-description:  
+description:  To design and create a physical environment, i.e. a built environment or an
+arena, where a 4-wheeled mobile robot, i.e. LIMO robot from AgileX Robotics, is able to
+perform certain functions, e.g. localisation, mapping, path planning, navigation etc..
 
 skills: 
   - Localisation
@@ -16,12 +18,7 @@ main-image: /Arena Design.jpg
 ---
 
 ---
-# Purpose
-To design and create a physical environment, i.e. a built environment or an
-arena, where a 4-wheeled mobile robot, i.e. LIMO robot from AgileX Robotics, is able to
-perform certain functions, e.g. localisation, mapping, path planning, navigation etc..
-
-## Learning Objectives
+# Learning Objectives
 To be able to design and create a physical environment, i.e. a built environment or an
 arena, where a mobile robot is able to move around.
 To be able to appreciate how a mobile robot and its physical environment interact with
@@ -30,7 +27,7 @@ To be able to work harmoniously in team within the given time and budget constra
 To be able to appreciate the tradeoff inherent in any real-world project and come up with
 the best compromise.
 
-### Arena Requirements
+## Arena Requirements
 Each arena must conform to the following requirements.
 ▪ The arena must have a size of 1330 mm x 1500 mm.
 ▪ The arena must have openings connecting it to the adjacent arenas. These openings must be
