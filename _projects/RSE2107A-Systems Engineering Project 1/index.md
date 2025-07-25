@@ -8,6 +8,7 @@ skills:
   - Mapping
   - Path planning
   - Navigation
+  - ROS1 Melodic
   - ROS1 TF
   - ROS1 Actionlib
 
