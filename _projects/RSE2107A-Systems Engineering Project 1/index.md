@@ -1,8 +1,10 @@
 ---
 layout: post
 title: RSE2107A-Systems Engineering Project 1
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+description:  To design and create a physical environment, i.e. a built environment or an
+arena, where a 4-wheeled mobile robot, i.e. LIMO robot from AgileX Robotics, is able to
+perform certain functions, e.g. localisation, mapping, path planning, navigation etc..
+
 skills: 
   - Localisation
   - Mapping
