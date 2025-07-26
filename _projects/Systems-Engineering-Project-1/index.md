@@ -17,6 +17,7 @@ main-image: /Arena Design.jpg
 
 ---
 ## Arena Design Specifications
+---
 ### Dimensions:
 - The arena must measure 1330 mm × 1500 mm.
 
@@ -34,10 +35,13 @@ main-image: /Arena Design.jpg
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
 
 ## Limo
+---
 
 ## Demostration
+---
 
 ## Learning Outcomes
+---
 Through this project, I developed the following skills:
 
 ### Arena Design & Construction
