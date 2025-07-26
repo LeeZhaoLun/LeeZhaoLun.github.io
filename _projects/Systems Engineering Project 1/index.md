@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Systems Engineering Project 1
-description: "To design and create a physical environment, a built environment or an arena, where a 4-wheeled mobile robot (LIMO robot from Agilex Robotics) is able to perform certain functions: localisation, mapping, path planning, and navigation."
+description: My team was tasked to desgin and create an operational arena for the AgileX LIMO robot to implement and test core robotics functions: real-time localization, environment mapping, obstacle-aware path planning, and autonomous navigation.
 
 skills: 
   - Localisation
@@ -17,7 +17,6 @@ main-image: /Arena Design.jpg
 
 ---
 ## Arena Requirements
-Each arena must conform to the following requirements.
 The arena must have a size of 1330 mm x 1500 mm.
 The arena must have openings connecting it to the adjacent arenas. These openings must be
 at the centres of the sides the arena.
