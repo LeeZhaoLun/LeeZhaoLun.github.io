@@ -34,7 +34,7 @@ main-image: /Arena Design.jpg
 
 - The design must be practical and navigable—teams must demonstrate that their robot can successfully traverse or overcome the arena's layout.
 
-### Arena Final Design 
+### Arena Final Design **(Changi Airport Terminal 2)**
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
 
 ## Demostration
@@ -55,13 +55,11 @@ Through this project, I developed the following skills:
 ### Collaborative Teamwork
 
 - Coordinated effectively within a team under time and budget limitations.
-
 - Balanced individual contributions with group objectives.
 
 ### Practical Engineering Tradeoffs
 
 - Evaluated design compromises between feasibility, cost, and performance.
-
 - Implemented solutions that best met project goals.
 
 <!-- 
