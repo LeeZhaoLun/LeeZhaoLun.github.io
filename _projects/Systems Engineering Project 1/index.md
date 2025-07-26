@@ -25,6 +25,9 @@ area within 5-cm radius from the centre of the arena.
 The arena must be reasonable, i.e. the team designing and creating it must show that their
 robot can navigate through or conquer it.
 
+### Arena Design
+{% include image-gallery.html images="Arena design.jpg" height="400"%}
+
 ## Learning Objectives
 To be able to design and create a physical environment, i.e. a built environment or an
 arena, where a mobile robot is able to move around.
