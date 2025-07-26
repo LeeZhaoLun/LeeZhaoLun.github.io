@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Systems Engineering Project 1
-description:  My team was tasked to desgin and create an operational arena for the AgileX LIMO robot to implement and test core robotics functions: real-time localization, environment mapping, obstacle-aware path planning, and autonomous navigation.
+description:  "My team was tasked to desgin and create an operational arena for the AgileX LIMO robot to implement and test core robotics functions: real-time localization, environment mapping, obstacle-aware path planning, and autonomous navigation."
 
 skills: 
   - Localisation
