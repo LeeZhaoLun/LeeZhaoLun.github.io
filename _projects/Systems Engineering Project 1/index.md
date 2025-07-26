@@ -28,6 +28,7 @@ robot can navigate through or conquer it.
 ### Arena Design
 {% include image-gallery.html images="Arena design.jpg" height="200"%}
 
+
 ## Learning Objectives
 To be able to design and create a physical environment, i.e. a built environment or an
 arena, where a mobile robot is able to move around.
