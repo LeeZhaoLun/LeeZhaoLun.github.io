@@ -26,7 +26,7 @@ The arena must be reasonable, i.e. the team designing and creating it must show 
 robot can navigate through or conquer it.
 
 ### Arena Design
-{% include image-gallery.html images="Arena design.jpg" height="400"%}
+{% include image-gallery.html images="Arena design.jpg" height="200"%}
 
 ## Learning Objectives
 To be able to design and create a physical environment, i.e. a built environment or an
