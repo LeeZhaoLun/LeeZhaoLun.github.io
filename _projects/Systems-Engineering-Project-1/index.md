@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Systems Engineering Project 1
-description:  "My team was tasked to desgin and create an operational arena inspired from changi airport for the AgileX LIMO robot to demonstrate autonomous capabilities including real-time localization, environment mapping, obstacle-aware path planning, and autonomous navigation."
+description:  "My team was tasked to desgin and create an arena inspired from changi airport landmarks for the AgileX LIMO robot to demonstrate autonomous capabilities including real-time localization, environment mapping, obstacle-aware path planning, and autonomous navigation."
 
 skills: 
   - Localisation
@@ -31,14 +31,16 @@ main-image: /Arena Design.jpg
 ### Feasibility & Robot Navigation:
 - The design must be practical and navigable—teams must demonstrate that their robot can successfully traverse or overcome the arena's layout.
 
-### Arena Final Design **(Changi Airport Terminal 2)**
+### Arena Final Design: **Changi Airport Terminal 2**
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
 
 ## Limo
 ---
 
-## Demostration
----
+[🔗 View Limo Bringup files and Setup Instruction on GitHub](https://github.com/LeeZhaoLun/Systems-Engineering-Project-1/tree/main)
+
+### Limo Demonstration
+{% include youtube-video.html id="{11-digit id}" autoplay= "false"%}
 
 ## Learning Outcomes
 ---
@@ -47,7 +49,7 @@ Through this project, I developed the following skills:
 ### Arena Design & Construction
 - Designed and built a functional physical environment for mobile robot navigation.
 - Ensured the arena met structural and navigational requirements.
-- 
+  
 ### Robot-Environment Interaction
 - Analyzed how robot behavior is influenced by physical space constraints.
 - Optimized the arena layout to support smooth robot movement.
