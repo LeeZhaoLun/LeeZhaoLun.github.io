@@ -30,7 +30,7 @@ main-image: /Arena Design.jpg
 ### Feasibility & Robot Navigation:
 - The design must be practical and navigable—teams must demonstrate that their robot can successfully traverse or overcome the arena's layout.
 
-### Arena Final Design: **Changi Airport Terminal 2**
+### Arena Final Design based of **Changi Airport Terminal 2**
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
 <br>
 ## Limo
@@ -39,7 +39,7 @@ main-image: /Arena Design.jpg
 View Limo Bringup files, Parameters Setting and Setup Instructions used for this project on [GitHub Repositories](https://github.com/LeeZhaoLun/Systems-Engineering-Project-1/tree/main)
 
 ### Limo Demonstration
-{% include youtube-video.html id="{11-digit id}" autoplay= "false"%}
+{% include youtube-video.html id="{mOPvr2Fn58g}" autoplay= "false"%}
 <br>
 ## Learning Outcomes
 ---
