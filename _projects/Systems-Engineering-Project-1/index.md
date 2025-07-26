@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Systems Engineering Project 1
-description:  "My team was tasked to desgin and create an operational arena for the AgileX LIMO robot to implement and test core robotics functions: real-time localization, environment mapping, obstacle-aware path planning, and autonomous navigation."
+description:  "My team was tasked to desgin and create an operational arena inspired from changi airport for the AgileX LIMO robot to demonstrate autonomous capabilities including real-time localization, environment mapping, obstacle-aware path planning, and autonomous navigation."
 
 skills: 
   - Localisation
   - Mapping
-  - Path planning
+  - Path Planning
   - Navigation
   - ROS1 Melodic
   - ROS1 TF
@@ -28,23 +28,41 @@ main-image: /Arena Design.jpg
 ### Path Requirements:
 
 - A continuous path must link all openings.
-
 - This path must pass within a 5 cm radius of the arena's center.
 
 ### Feasibility & Robot Navigation:
 
 - The design must be practical and navigable—teams must demonstrate that their robot can successfully traverse or overcome the arena's layout.
 
-### Arena Design
+### Arena Final Design 
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
 
+## Demostration
 
+## Learning Outcomes
+Through this project, I developed the following skills:
 
-## Learning Objectives
-- To be able to design and create a physical environment, i.e. a built environment or an arena, where a mobile robot is able to move around.
-- To be able to appreciate how a mobile robot and its physical environment interact with each other.
-- To be able to work harmoniously in team within the given time and budget constraints.
-- To be able to appreciate the tradeoff inherent in any real-world project and come up with the best compromise.
+### Arena Design & Construction
+
+- Designed and built a functional physical environment for mobile robot navigation.
+- Ensured the arena met structural and navigational requirements.
+
+### Robot-Environment Interaction
+
+- Analyzed how robot behavior is influenced by physical space constraints.
+- Optimized the arena layout to support smooth robot movement.
+
+### Collaborative Teamwork
+
+- Coordinated effectively within a team under time and budget limitations.
+
+- Balanced individual contributions with group objectives.
+
+### Practical Engineering Tradeoffs
+
+- Evaluated design compromises between feasibility, cost, and performance.
+
+- Implemented solutions that best met project goals.
 
 <!-- 
 ## Embedding images 
