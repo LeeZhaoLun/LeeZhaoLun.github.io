@@ -17,12 +17,12 @@ main-image: /Arena Design.jpg
 
 ---
 ## Arena Requirements
-The arena must have a size of 1330 mm x 1500 mm.
-The arena must have openings connecting it to the adjacent arenas. These openings must be
+▪ The arena must have a size of 1330 mm x 1500 mm.
+▪ The arena must have openings connecting it to the adjacent arenas. These openings must be
 at the centres of the sides the arena.
-The arena must have path connecting all of the openings and this path must intersect some
+▪ The arena must have path connecting all of the openings and this path must intersect some
 area within 5-cm radius from the centre of the arena.
-The arena must be reasonable, i.e. the team designing and creating it must show that their
+▪ The arena must be reasonable, i.e. the team designing and creating it must show that their
 robot can navigate through or conquer it.
 
 ### Arena Design
