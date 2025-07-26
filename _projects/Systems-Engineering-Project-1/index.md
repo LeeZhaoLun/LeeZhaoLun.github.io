@@ -33,8 +33,16 @@ main-image: /Arena Design.jpg
 ### Arena Final Design based of **Changi Airport Terminal 2**
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
 <br>
-## Limo
+## Limo Setup
 ---
+### 3D Environment Mapping
+- Using RTAB-Map with LIMO's LiDAR and depth camera to create detailed 3D maps of indoor arenas, with loop closure detection for consistent mapping.
+
+### Autonomous Navigation
+- Implementing the ROS navigation stack with tuned parameters for LIMO's kinematics, enabling obstacle avoidance and path planning in mapped environments.
+
+### Waypoint Navigation System
+- A custom waypoint follower that saves and executes routes through the mapped environment, demonstrating repeatable autonomous operation.
 
 View Limo Bringup files, Parameters Setting and Setup Instructions used for this project on [GitHub Repositories](https://github.com/LeeZhaoLun/Systems-Engineering-Project-1/tree/main)
 
