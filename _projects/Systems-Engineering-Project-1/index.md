@@ -39,7 +39,7 @@ main-image: /Arena Design.jpg
 View Limo Bringup files, Parameters Setting and Setup Instructions used for this project on [GitHub Repositories](https://github.com/LeeZhaoLun/Systems-Engineering-Project-1/tree/main)
 
 ### Limo Demonstration
-{% include youtube-video.html id="{mOPvr2Fn58g}" autoplay= "false"%}
+{% include youtube-video.html id="{mOPvr2Fn58g}" autoplay = "true" width= "1000px"%}
 <br>
 ## Learning Outcomes
 ---
