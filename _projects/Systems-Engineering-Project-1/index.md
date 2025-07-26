@@ -18,24 +18,22 @@ main-image: /Arena Design.jpg
 ---
 ## Arena Design Specifications
 ### Dimensions:
-
 - The arena must measure 1330 mm × 1500 mm.
 
 ### Entry/Exit Openings:
-
 - Openings must be placed at the center of each side to connect with adjacent arenas.
 
 ### Path Requirements:
-
 - A continuous path must link all openings.
 - This path must pass within a 5 cm radius of the arena's center.
 
 ### Feasibility & Robot Navigation:
-
 - The design must be practical and navigable—teams must demonstrate that their robot can successfully traverse or overcome the arena's layout.
 
 ### Arena Final Design **(Changi Airport Terminal 2)**
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
+
+## Limo
 
 ## Demostration
 
@@ -43,22 +41,18 @@ main-image: /Arena Design.jpg
 Through this project, I developed the following skills:
 
 ### Arena Design & Construction
-
 - Designed and built a functional physical environment for mobile robot navigation.
 - Ensured the arena met structural and navigational requirements.
-
+- 
 ### Robot-Environment Interaction
-
 - Analyzed how robot behavior is influenced by physical space constraints.
 - Optimized the arena layout to support smooth robot movement.
 
 ### Collaborative Teamwork
-
 - Coordinated effectively within a team under time and budget limitations.
 - Balanced individual contributions with group objectives.
 
 ### Practical Engineering Tradeoffs
-
 - Evaluated design compromises between feasibility, cost, and performance.
 - Implemented solutions that best met project goals.
 
