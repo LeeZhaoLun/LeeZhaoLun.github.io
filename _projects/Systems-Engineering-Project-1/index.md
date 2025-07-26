@@ -16,24 +16,34 @@ main-image: /Arena Design.jpg
 ---
 
 ---
-## Arena Requirements
-- The arena must have a size of 1330 mm x 1500 mm.
-- The arena must have openings connecting it to the adjacent arenas. These openings must be at the centres of the sides the arena.
-- The arena must have path connecting all of the openings and this path must intersect some area within 5-cm radius from the centre of the arena.
-- The arena must be reasonable, i.e. the team designing and creating it must show that their robot can navigate through or conquer it.
+## Arena Design Specifications
+1. Dimensions:
+
+- The arena must measure 1330 mm × 1500 mm.
+
+2. Entry/Exit Openings:
+
+- Openings must be placed at the center of each side to connect with adjacent arenas.
+
+3. Path Requirements:
+
+- A continuous path must link all openings.
+
+- This path must pass within a 5 cm radius of the arena's center.
+
+4. Feasibility & Robot Navigation:
+
+- The design must be practical and navigable—teams must demonstrate that their robot can successfully traverse or overcome the arena's layout.
 
 ### Arena Design
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
 
 
 ## Learning Objectives
-To be able to design and create a physical environment, i.e. a built environment or an
-arena, where a mobile robot is able to move around.
-To be able to appreciate how a mobile robot and its physical environment interact with
-each other.
-To be able to work harmoniously in team within the given time and budget constraints.
-To be able to appreciate the tradeoff inherent in any real-world project and come up with
-the best compromise.
+- To be able to design and create a physical environment, i.e. a built environment or an arena, where a mobile robot is able to move around.
+- To be able to appreciate how a mobile robot and its physical environment interact with each other.
+- To be able to work harmoniously in team within the given time and budget constraints.
+- To be able to appreciate the tradeoff inherent in any real-world project and come up with the best compromise.
 
 <!-- 
 ## Embedding images 
