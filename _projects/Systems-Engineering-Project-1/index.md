@@ -17,26 +17,27 @@ main-image: /Arena Design.jpg
 
 ---
 ## Arena Design Specifications
-1. Dimensions:
+### Dimensions:
 
 - The arena must measure 1330 mm × 1500 mm.
 
-2. Entry/Exit Openings:
+### Entry/Exit Openings:
 
 - Openings must be placed at the center of each side to connect with adjacent arenas.
 
-3. Path Requirements:
+### Path Requirements:
 
 - A continuous path must link all openings.
 
 - This path must pass within a 5 cm radius of the arena's center.
 
-4. Feasibility & Robot Navigation:
+### Feasibility & Robot Navigation:
 
 - The design must be practical and navigable—teams must demonstrate that their robot can successfully traverse or overcome the arena's layout.
 
 ### Arena Design
 {% include image-gallery.html images="/Arena T2.jpg" height="400"%}
+
 
 
 ## Learning Objectives
